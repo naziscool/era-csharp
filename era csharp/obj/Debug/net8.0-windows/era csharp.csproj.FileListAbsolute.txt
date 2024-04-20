@@ -1,0 +1,23 @@
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\era csharp.exe
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\era csharp.deps.json
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\era csharp.runtimeconfig.json
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\era csharp.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\era csharp.pdb
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.csproj.AssemblyReference.cache
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era_csharp.Form1.resources
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.csproj.GenerateResource.cache
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.AssemblyInfoInputs.cache
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.AssemblyInfo.cs
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.csproj.CoreCompileInputs.cache
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.csproj.Up2Date
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\refint\era csharp.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.pdb
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era csharp.genruntimeconfig.cache
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\ref\era csharp.dll
+C:\Users\nateb\source\repos\era csharp\era csharp\obj\Debug\net8.0-windows\era_csharp.Properties.Resources.resources
+C:\Users\nateb\source\repos\era csharp\era csharp\bin\Debug\net8.0-windows\INIFileParser.dll
